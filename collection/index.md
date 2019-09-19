@@ -1,4 +1,4 @@
 # Sammlung
 
 ## Umwelt
-### [Bedrohte Wälder?](collection/waelder.md)
+### [Bedrohte Wälder?](waelder.md)
