@@ -25,10 +25,12 @@ https://www.bundeswaldinventur.de/dritte-bundeswaldinventur-2012/hintergrundinfo
 ### Kohlenstoffinventur 2017
 
 ##### (2a) Trendbestätigung
+https://www.bundeswaldinventur.de/fileadmin/SITE_MASTER/content/Downloads/CI2017/2019-04_FlyerKohlenstoffinventur2017_final.pdf
 
 ### Waldzustandserhebung 2018
 
-##### (3a) Kronenverlichtung nimmt im Vergleich zu 2017 deutlich zu https://www.bmel.de/DE/Wald-Fischerei/Waelder/_texte/Waldzustandserhebung.html;jsessionid=4FE16BE1DE735957A4AD656D26FB081A.2_cid358#doc3617160bodyText2
+##### (3a) Kronenverlichtung nimmt im Vergleich zu 2017 deutlich zu
+[https://www.bmel.de/DE/Wald-Fischerei/Waelder/_texte/Waldzustandserhebung.html;jsessionid=4FE16BE1DE735957A4AD656D26FB081A.2_cid358#doc3617160bodyText2](https://www.bmel.de/DE/Wald-Fischerei/Waelder/_texte/Waldzustandserhebung.html;jsessionid=4FE16BE1DE735957A4AD656D26FB081A.2_cid358#doc3617160bodyText2)
 
 ##### (3b) langfristiger Trend der Kronenverlichtung negativ
 https://www.bmel.de/SharedDocs/Downloads/Broschueren/ErgebnisseWaldzustandserhebung2018.pdf?__blob=publicationFile
@@ -52,10 +54,11 @@ Auf die Fichte könnte man vielleicht verzichten, wenn dadurch nicht die Wirtsch
 
 Auch 5 Jahre später bei der Kohlenstoffinventur 2017 bestätigt sich der Trend. 6% Zuwachs beim Holzvorrat, wovon 80% durch Bäume mit Durchmesser 50cm und größer ausmachen.
 
-2018 dann ein Jahr voller Dürre und einer stark zunehmenden Kronenverlichtung bei allen Baumarten (3a)
+2018 dann ein Jahr voller Dürre und einer stark zunehmenden Kronenverlichtung bei allen Baumarten (3a), welche sich in 2019 fortsetzen wird.
 
-Ein Blick in die Verläufer der Kronenverlichtung seit 1985 zeigt bei nahezu allen Baumarten eine stetige Verschlechterung. Interessant auch die Betrachtung der Kronenverlichtung nach Alter der Bäume.
-So zeigt sich vor allem bei älteren Bäumen eine vergleichsweise hohe Kronenverlichtung.  
+Ein Blick in die Verläufer der Kronenverlichtung seit 1985 zeigt bei vielen Baumarten in der Tendenz eine stetige Verschlechterung oder ein gleichbleibendes Niveau. Interessant auch die Betrachtung der deutlichen Kronenverlichtung nach Alter der Bäume. So zeigt sich vor allem bei älteren Bäumen eine vergleichsweise hohe Kronenverlichtung, was einerseits in der Natur der Sache liegt, andererseits den gefährdeten Holzvorrat von Morgen zeigt.
+
+So zeigen 44% der älteren Fichten eine deutliche Kronenverlichtung, 45% der älteren Buchen, 48% der älteren Eichen, 37% der älteren anderen Laubbäumen. Pessimistisch betrachtet ist beinahe die Hälfte dieser alten Bäume beschädigt und gefährdet, welche wiederum 80% des Zuwachses des Holzvorrates ausmachen.
 
 
 ## Fazit
@@ -70,6 +73,7 @@ Es bleibt zu vermuten, dass vor allem der Fichtenbestand in diesen beiden Jahren
 
 Allein ein Gang durch einen typischen Fichtenwald in z.B. Sachsen zeigt, dass ein Rückgang von 4% des Holzbestandes ziemlich optimistisch scheint.
 
-Unberücksichtigt bleibt an dieser Stelle auch die qualitative Betrachtung des Waldes, z.B. die teils deutlich zunehmende Kronenverlichtung bestimmter Baumarten, vor allem bei Nadelbäumen.
+Unberücksichtigt bleibt an dieser Stelle auch die qualitative Betrachtung des Waldes, z.B. die teils deutlich zunehmende Kronenverlichtung vieler Baumarten, hierbei vor allem ältere Bäume.
 
-Eine weiterhin deutliche Zunahme des Holzvorrates ist in den kommenden Jahrzehnten meiner Meinung nach nicht zu erwarten, denn im "Nachwuchsbereich" zeigt sich bereits in der Bundeswaldinventur 2012 ein Rückgang, welcher sich in die Zukunft fortpflanzen wird. Darüber hinaus werden die älteren Bäume aus den Aufforstungen der Nachkriegszeiten geerntet werden und damit ein deutlicher Rückgang bei älteren dickeren Bäumen entstehen, unter Anderem auch bedingt einer hier vergleichsweise hohen Kronenverlichtung. Diesen Rückgang wird man selbst mit großflächigen Aufforstungen nicht binnen weniger Jahre kompensieren können, denn Aufforderungen benötigen viel Zeit.
+Eine weitere deutliche Zunahme des Holzvorrates ist in den kommenden Jahrzehnten meiner Meinung nach nicht zu erwarten, denn im "Nachwuchsbereich" ist bereits in der Bundeswaldinventur 2012 ein Rückgang verzeichnet worden, welcher sich in die Zukunft fortpflanzen wird.
+Ein Rückgang des Holzvorrates bei vor allem älteren Bäumen dürfte angesichts wirtschaftlicher Aspekte zu erwarten sein(1d), u.a. auch getrieben durch eine zunehmende Kronenverlichtung bei älteren Bäumen.
