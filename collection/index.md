@@ -1,6 +1,7 @@
-# [Politics-by-Science](../README.md)
-
+---
+layout: default
+---
 # Sammlung
 
 ## Umwelt
-### [Bedrohte Wälder?](waelder.md)
+### [Bedrohte Wälder?](waelder)

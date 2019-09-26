@@ -1,6 +1,11 @@
+---
+layout: default
+---
+
 # Bedrohte Wälder?
 
 ## Daten & Fakten
+
 
 ### Bundeswaldinventur 2002 - 2012
 
@@ -56,7 +61,7 @@ Auch 5 Jahre später zeigt die Kohlenstoffinventur 2017 keine wesentlichen Verä
 
 2018 dann ein Jahr voller Dürre und einer stark zunehmenden Kronenverlichtung bei allen Baumarten (3a), welche sich in 2019 fortsetzen wird.
 
-Ein Blick in die Verläufer der Kronenverlichtung seit 1985 zeigt bei vielen Baumarten in der Tendenz eine stetige Verschlechterung oder ein gleichbleibendes Niveau. Einzig bei einigen Nadelbaumarten zeigt sich eine Verbesserung. Interessant auch die Betrachtung der deutlichen Kronenverlichtung nach Alter der Bäume. So zeigt sich vor allem bei älteren Bäumen eine vergleichsweise hohe Kronenverlichtung, was einerseits in der Natur der Sache liegt, andererseits bereits Heute den gefährdeten Holzvorrat von Morgen zeigt. Bäume mit hoher Kronenverlichtung bergen u.a. wirtschaftliche Risiken, denn die damit einhergehende steigende Gefahr von Schädlings- oder Pilzbefall gefährdet auch den forstwirtschaftlichen Wert. 
+Ein Blick in die Verläufer der Kronenverlichtung seit 1985 zeigt bei vielen Baumarten in der Tendenz eine stetige Verschlechterung oder ein gleichbleibendes Niveau. Einzig bei einigen Nadelbaumarten zeigt sich eine Verbesserung. Interessant auch die Betrachtung der deutlichen Kronenverlichtung nach Alter der Bäume. So zeigt sich vor allem bei älteren Bäumen eine vergleichsweise hohe Kronenverlichtung, was einerseits in der Natur der Sache liegt, andererseits bereits Heute den gefährdeten Holzvorrat von Morgen zeigt. Bäume mit hoher Kronenverlichtung bergen u.a. wirtschaftliche Risiken, denn die damit einhergehende steigende Gefahr von Schädlings- oder Pilzbefall gefährdet auch den forstwirtschaftlichen Wert.
 
 So zeigen 44% der älteren Fichten eine deutliche Kronenverlichtung, 45% der älteren Buchen, 48% der älteren Eichen, 37% der älteren anderen Laubbäumen. Pessimistisch betrachtet ist beinahe die Hälfte dieser alten Bäume beschädigt und gefährdet, welche wiederum 80% des Zuwachses des Holzvorrates ausmachen.
 
