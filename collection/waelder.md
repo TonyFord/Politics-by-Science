@@ -4,8 +4,13 @@ layout: default
 
 # Bedrohte Wälder?
 
-## Daten & Fakten
+## Vorwort
 
+Sind unsere Wälder wirklich bedroht oder unterliegen wir vielleicht einer medialen Dramatisierung von Einzelereignissen?
+Auf dieser Seite möchte ich die Thematik ( aus Sicht eines interessierten Nichtexperten ) genauer betrachten, möchte Daten und Fakten sammeln und versuchen (m)eine Antwort auf diese Frage zu finden.
+Diese soll weder als entgültig noch als allgemeingültig gesehen werden, sondern möchte ich diese Seite später mit neuen Erkenntnissen füllen und meine Antworten entsprechend aktualisieren, sollten neue Erkenntnisse dazu führen.
+
+## Daten & Fakten
 
 ### Bundeswaldinventur 2002 - 2012
 

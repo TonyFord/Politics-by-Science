@@ -17,79 +17,79 @@ Was mir beim Sichten von Daten und Fakten deutlich aufgefallen ist, ist die teil
 ### Mehrertrag der konventionellen Landwirtschaft im Vergleich zur ökologischen Landwirtschaft
 
 #### <sup>[1a]</sup> Industrieverband Agrar ( Erträge 51% geringer bei ökoligischer Landwirtschaft )
-https://www.iva.de/newsroom/pressemitteilungen/ertraege-im-oekolandbau-fallen-weiter-zurueck
-https://www.topagrar.com/acker/news/iva-verteidigt-studie-ertraege-im-oekolandbau-sind-51-geringer-9969128.html
+[https://www.iva.de/newsroom/pressemitteilungen/ertraege-im-oekolandbau-fallen-weiter-zurueck](https://www.iva.de/newsroom/pressemitteilungen/ertraege-im-oekolandbau-fallen-weiter-zurueck)
+[https://www.topagrar.com/acker/news/iva-verteidigt-studie-ertraege-im-oekolandbau-sind-51-geringer-9969128.html](https://www.topagrar.com/acker/news/iva-verteidigt-studie-ertraege-im-oekolandbau-sind-51-geringer-9969128.html)
 
 Die Studie die dies belegen soll, stammt von **hffa Research GmbH**.
 Sofort wird klar, dass es sich hierbei um ein Unternehmen handelt, welches Studien im Auftrag von Kunden erstellt. Die daraus resultierenden Interessenskonflikte ( Wirtschaftsinteressen ) machen eine solche Studie leider unbrauchbar.
 Dies zeigt sich erst recht, wenn man in den Kundenkreis blickt, in denen sich nahezu ausschließlich die großen Player in der konventionellen Landwirtschaft tummeln.
-https://hffa-research.com/clients-cooperations/
+[https://hffa-research.com/clients-cooperations/](https://hffa-research.com/clients-cooperations/)
 
 Es liegt in der Natur der Sache, dass ein Unternehmen, welches mit Studien seine Existenz sichern muss und möchte, keine Studien erstellt, welche sich gegen die Geschäftsgrundlage ( der sicherlich nicht schlecht zahlenden Kunden ) richtet. Denn kein Kunde würde Geld für eine Studie bezahlen, die ihm ein ungünstiges Zeugnis ausstellen. Und wenn, dann würden solch Studienergebnisse nicht öffentlich bekannt gemacht werden.
 
 Deshalb nun zu Studien, welche die Realität weitaus besser zeigen.
 
 #### <sup>[1b]</sup> Erträge der ökologischen Landwirtschaft knapp 20% im Mittel geringer
-https://www.spiegel.de/wissenschaft/natur/landwirtschaft-ertraege-im-biolandbau-werden-unterschaetzt-a-1007533.html
+[https://www.spiegel.de/wissenschaft/natur/landwirtschaft-ertraege-im-biolandbau-werden-unterschaetzt-a-1007533.html](https://www.spiegel.de/wissenschaft/natur/landwirtschaft-ertraege-im-biolandbau-werden-unterschaetzt-a-1007533.html)
 
 ### Humusbildung von entscheidender Bedeutung
 
 #### <sup>[2a]</sup> Gemischte CO2-Bilanz der Landwirtschaft
-https://www.pflanzenforschung.de/de/journal/journalbeitrage/kohlendioxid-die-gemischte-bilanz-der-landwirtschaft-10011/
+[https://www.pflanzenforschung.de/de/journal/journalbeitrage/kohlendioxid-die-gemischte-bilanz-der-landwirtschaft-10011/](https://www.pflanzenforschung.de/de/journal/journalbeitrage/kohlendioxid-die-gemischte-bilanz-der-landwirtschaft-10011/)
 
 #### <sup>[2b]</sup> Negative Stickstoffbilanz durch Überdüngung, Moorböden binden deutlich mehr CO2 als Wälder
-https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/170405_uba_fb_landwirtschaftumwelt_bf.pdf
+[https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/170405_uba_fb_landwirtschaftumwelt_bf.pdf](https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/170405_uba_fb_landwirtschaftumwelt_bf.pdf)
 
 #### <sup>[2c]</sup> Beitrag der Landwirtschaft zu den Treibhausgas-Emissionen.
-https://www.umweltbundesamt.de/daten/land-forstwirtschaft/beitrag-der-landwirtschaft-zu-den-treibhausgas#textpart-4
+[https://www.umweltbundesamt.de/daten/land-forstwirtschaft/beitrag-der-landwirtschaft-zu-den-treibhausgas#textpart-4](https://www.umweltbundesamt.de/daten/land-forstwirtschaft/beitrag-der-landwirtschaft-zu-den-treibhausgas#textpart-4)
 
 #### <sup>[2d]</sup> Vergleich okologischer vs. mineralischer Dünger ( mineralischer Dünger hindert Humusaufbau bzw. fördert Humusabbau )
-https://www.plantura.garden/gartentipps/gartenpraxis/mineralischer-duenger-vorteile-nachteile-beispiele
+[https://www.plantura.garden/gartentipps/gartenpraxis/mineralischer-duenger-vorteile-nachteile-beispiele](https://www.plantura.garden/gartentipps/gartenpraxis/mineralischer-duenger-vorteile-nachteile-beispiele)
 
 #### <sup>[2e]</sup> Humusabbau durch konventionelle Landwirtschaft
-https://www.n-tv.de/wissen/Viel-Erde-verschwindet-article231529.html
+[https://www.n-tv.de/wissen/Viel-Erde-verschwindet-article231529.html](https://www.n-tv.de/wissen/Viel-Erde-verschwindet-article231529.html)
 
 #### <sup>[2f]</sup> Ökologische vs. konventionelle Landwirtschaft, einfacher Vergleich
-https://feldundstall.de/landwirtschaft/1939/
+[https://feldundstall.de/landwirtschaft/1939/](https://feldundstall.de/landwirtschaft/1939/)
 
 #### <sup>[2g]</sup> Ökologische vs. konventionelle Landwirtschaft - was ist besser - wissenschaftlich betrachtet!?
-https://www.insm-oekonomenblog.de/20936-konventionelle-versus-oekologische-landwirtschaft-was-ist-besser/
+[https://www.insm-oekonomenblog.de/20936-konventionelle-versus-oekologische-landwirtschaft-was-ist-besser/](https://www.insm-oekonomenblog.de/20936-konventionelle-versus-oekologische-landwirtschaft-was-ist-besser/)
 
 #### <sup>[2h]</sup> Klimaschutz durch Humusaufbau
-https://www.carbocert.de/informationen/humus/humusaufbau
-https://innovativelandwirtschaft.de/humus-grundlage-unseres-lebens/
+[https://www.carbocert.de/informationen/humus/humusaufbau](https://www.carbocert.de/informationen/humus/humusaufbau)
+[https://innovativelandwirtschaft.de/humus-grundlage-unseres-lebens/](https://innovativelandwirtschaft.de/humus-grundlage-unseres-lebens/)
 
 #### <sup>[2i]</sup> CO2 - Senken ( Hoffnungen und Irrtümer )
 https://bildungsserver.hamburg.de/contentblob/3113480/cc20ba26b2320dd5959b1510a055af4e/data/2007-co2-senke.pdf
 
 #### <sup>[2j]</sup> Terra Preta, Pflanzenkohle + Humus = CO2 Senke!
-https://www.tagesspiegel.de/themen/reportage/supererde-bindet-co2-ein-altes-verfahren-aus-dem-amazonas-elektrisiert-die-klimaschuetzer/25000952.html
+[https://www.tagesspiegel.de/themen/reportage/supererde-bindet-co2-ein-altes-verfahren-aus-dem-amazonas-elektrisiert-die-klimaschuetzer/25000952.html](https://www.tagesspiegel.de/themen/reportage/supererde-bindet-co2-ein-altes-verfahren-aus-dem-amazonas-elektrisiert-die-klimaschuetzer/25000952.html)
 
-https://www.hofpfisterei.de/cms_download/article235_d2.pdf
+[https://www.hofpfisterei.de/cms_download/article235_d2.pdf](https://www.hofpfisterei.de/cms_download/article235_d2.pdf)
 
 #### <sup>[2k]</sup> Energiebilanz zur Herstellung von Mineraldünger
-https://www.iva.de/verband/pflanzenernaehrung/faq-haeufig-gestellte-fragen/mineralduengung-und-energieverbrauch/wieviel-energie-fossiler
+[https://www.iva.de/verband/pflanzenernaehrung/faq-haeufig-gestellte-fragen/mineralduengung-und-energieverbrauch/wieviel-energie-fossiler](https://www.iva.de/verband/pflanzenernaehrung/faq-haeufig-gestellte-fragen/mineralduengung-und-energieverbrauch/wieviel-energie-fossiler)
 
 #### <sup>[2k2]</sup> Energiebilanz zur Herstellung von Mineraldünger
-https://www.iva.de/verband/pflanzenernaehrung/faq-haeufig-gestellte-fragen/mineralduengung-und-energieverbrauch/wie-wirkt-sich-die
+[https://www.iva.de/verband/pflanzenernaehrung/faq-haeufig-gestellte-fragen/mineralduengung-und-energieverbrauch/wie-wirkt-sich-die](https://www.iva.de/verband/pflanzenernaehrung/faq-haeufig-gestellte-fragen/mineralduengung-und-energieverbrauch/wie-wirkt-sich-die)
 
 #### <sup>[2l]</sup> Lachgasemission durch Stickstoffdüngung
-https://www.umweltbundesamt.de/themen/boden-landwirtschaft/umweltbelastungen-der-landwirtschaft/lachgas-methan
+[https://www.umweltbundesamt.de/themen/boden-landwirtschaft/umweltbelastungen-der-landwirtschaft/lachgas-methan](https://www.umweltbundesamt.de/themen/boden-landwirtschaft/umweltbelastungen-der-landwirtschaft/lachgas-methan)
 
 #### <sup>[2m]</sup> Stagnation der Erträge in der ökologischen Landwirtschaft
-https://www.oekolandbau.de/landwirtschaft/pflanze/grundlagen-pflanzenbau/duengung/ertragsstagnation-im-oekolandbau/
+[https://www.oekolandbau.de/landwirtschaft/pflanze/grundlagen-pflanzenbau/duengung/ertragsstagnation-im-oekolandbau/](https://www.oekolandbau.de/landwirtschaft/pflanze/grundlagen-pflanzenbau/duengung/ertragsstagnation-im-oekolandbau/)
 
-#### <sup>[2n]</sup> ca. 7% Treibhausgasemissionen durch Landwirtschaft https://www.thuenen.de/de/thema/klima-und-luft/emissionsinventare-buchhaltung-fuer-den-klimaschutz/treibhausgas-emissionen-aus-der-landwirtschaft/
+#### <sup>[2n]</sup> ca. 7% Treibhausgasemissionen durch Landwirtschaft [https://www.thuenen.de/de/thema/klima-und-luft/emissionsinventare-buchhaltung-fuer-den-klimaschutz/treibhausgas-emissionen-aus-der-landwirtschaft/](https://www.thuenen.de/de/thema/klima-und-luft/emissionsinventare-buchhaltung-fuer-den-klimaschutz/treibhausgas-emissionen-aus-der-landwirtschaft/)
 
 #### <sup>[2o]</sup> ca. 4% Treibhausgasemissionen durch Landumnutzung von Mooren
-https://www.wiwo.de/technologie/green/umwelt-co2-der-klimakiller-aus-dem-moor/13547866.html
+[https://www.wiwo.de/technologie/green/umwelt-co2-der-klimakiller-aus-dem-moor/13547866.html](https://www.wiwo.de/technologie/green/umwelt-co2-der-klimakiller-aus-dem-moor/13547866.html)
 
 ### Flächennutzung Dtl. Statistiken
 
 #### <sup>[3a]</sup> Flächennutzung
-https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/struktur-der-flaechennutzung
+[https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/struktur-der-flaechennutzung](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/struktur-der-flaechennutzung)
 
-#### <sup>[3b]</sup> Ökologischer Landbau  https://www.umweltbundesamt.de/daten/land-forstwirtschaft/oekologischer-landbau
+#### <sup>[3b]</sup> Ökologischer Landbau  [https://www.umweltbundesamt.de/daten/land-forstwirtschaft/oekologischer-landbau](https://www.umweltbundesamt.de/daten/land-forstwirtschaft/oekologischer-landbau)
 
 ## Kommentar
 
@@ -110,7 +110,7 @@ Das Einbringen von Nährstoffen kann dabei auf verschiedenen Wegen erfolgen.
 
 #### Wirtschaftsdünger
 Wirtschaftsdünger ist Dünger, welcher aus dem Wirtschaften heraus entsteht, z.B. Mist, Gülle, Pflanzenreste, Holzreste, Mulch, usw.
-( https://de.wikipedia.org/wiki/Wirtschaftsd%C3%BCnger )
+( [https://de.wikipedia.org/wiki/Wirtschaftsd%C3%BCnger](https://de.wikipedia.org/wiki/Wirtschaftsd%C3%BCnger) )
 
 Diese Art der Düngung ist in der ökologischen Landwirtschaft einzig zulässig.<sup>[2f]</sup>
 
@@ -118,7 +118,7 @@ Wirtschaftsdünger resultiert aus schnellen natürlichen Kreisläufen heraus. D.
 
 #### Mineraldünger / Stickstoffdüngung
 Mineraldüngung sind zumeist nitrathaltige Minerale wie Kalisalze oder Kalk.
-https://de.wikipedia.org/wiki/Minerald%C3%BCnger
+[https://de.wikipedia.org/wiki/Minerald%C3%BCnger](https://de.wikipedia.org/wiki/Minerald%C3%BCnger)
 
 Diese Art der Düngung ist in der ökologischen Landwirtschaft unzulässig.
 
@@ -194,4 +194,4 @@ Dieses Lebensgefühl kostet uns große Teile der landwirtschaftlichen Flächen, 
 
 Wir leisten uns einen hohen Fleischkonsum, nehmen dafür die Risiken einer konventionellen Landwirtschaft sowie unserer Gesundheit in Kauf obwohl wir uns den Luxus einer ökologischen Landwirtschaft im Rahmen der Ernährungsempfehlung leisten könnten und unterm Strich einen positiven Beitrag für uns selbst sowie der Natur leisten würden.
 
-Nur zu hoffen, dass zukünftig künstliches Fleisch einen großen Teil des Bedarfs wird decken können und dieser Luxus nachhaltiger gelebt werden kann. 
+Nur zu hoffen, dass zukünftig künstliches Fleisch einen großen Teil des Bedarfs wird decken können und dieser Luxus nachhaltiger gelebt werden kann.
